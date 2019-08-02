@@ -1,0 +1,2 @@
+vm=input()
+print(vm+".")
