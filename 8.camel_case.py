@@ -1,0 +1,6 @@
+A,B= map(list,input().split())
+A[0] = A[0].upper()
+B[0] = B[0].upper()
+fstr = "".join(A)
+dstr = "".join(B)
+print(fstr,dstr)
